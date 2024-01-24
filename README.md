@@ -13,4 +13,6 @@ I found within the MOS API the I2C routines to open, close, write and read using
 My I2C basic code adaptation is still in its infancy but I proved that it works. More in the fire on this to be posted on my GitHub site repository.
 I’ll get the code from the screenshots on my GitHub site later.
 
+https://www.facebook.com/groups/agonprogrammers/
+
 https://bootlin.com/labs/doc/nunchuk.pdf
